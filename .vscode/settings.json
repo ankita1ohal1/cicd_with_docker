@@ -1,0 +1,9 @@
+{
+    "python.pythonPath": "/home/chandu/Desktop/pythoncode/resumemaker_project/rm_env/bin/python",
+    "python.formatting.provider": "black",
+    "python.linting.flake8Enabled": true,
+    "python.linting.pylintEnabled": false,
+    "python.linting.enabled": true,
+    "html.format.endWithNewline": true,
+    "editor.formatOnSave": true
+}
